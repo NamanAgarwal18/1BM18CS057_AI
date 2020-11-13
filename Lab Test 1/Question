@@ -1,0 +1,1 @@
+You are given two jugs, a 4-litre one and a 3-litre one. Neither has any measuring marker on it. There is a pump that can be used to fill the jugs with water. How can you get exactly 2 litres of water into 4-litre jug? Implement this using Depth First Search.
