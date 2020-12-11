@@ -35,8 +35,7 @@ def unify():                            #Unification fuction
         if(flag == 0):
             print("Arguments are Identical")
             print("No need of Substitution")
-            
-            
+                       
             
 def chk_arg_pred():
     pred_flag = 0
@@ -67,8 +66,6 @@ def chk_arg_pred():
         if(arg_flag == 0 and pred_flag != 1):
             unify()
 
-
-
 def main():
     global no_of_pred
     ch = 'y'
@@ -87,12 +84,4 @@ def main():
         display()
         chk_arg_pred()
         ch = input("Do you want to continue(y/n): ")
-
-
-
-
-
-
-
-
 main()
