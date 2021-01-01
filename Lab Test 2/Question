@@ -1,0 +1,3 @@
+Consider P,Q and R as variables and the Knowledge base contains following sentences:
+Q=>R; P=>¬Q ; Rv Q
+Design the code for TT entailment and show whether Knowledgebase entails R
